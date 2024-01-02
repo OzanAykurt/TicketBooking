@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "proje1": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\VisualProjects\\proje1\\proje1\\bin\\Debug\\net8.0-windows"
+    }
+  }
+}
